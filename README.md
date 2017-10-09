@@ -1,2 +1,2 @@
 # BDDTest
-Cucumber BDD testing Sample one ..
+Cucumber BDD testing. This is for testing
